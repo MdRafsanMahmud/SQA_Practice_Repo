@@ -14,4 +14,4 @@ This repository showcases my Software Quality Assurance (SQA) practice projects,
 
 ⚠️ Note: This repository is for learning and showcasing my SQA skills. It is not licensed for reuse or modification.
 
-📩 Contact Me: [[Your LinkedIn or Email]](https://www.linkedin.com/in/mdrafsanmahmud/)
+📩 Contact Me: https://www.linkedin.com/in/mdrafsanmahmud/
