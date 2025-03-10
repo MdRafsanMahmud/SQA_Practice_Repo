@@ -3,7 +3,7 @@
 This repository showcases **Software Quality Assurance (SQA) practice work**, including **test documentation** and **manual test cases** for a To-Do List application.
 
 ## 📂 Repository Structure
-SQA_Practice_Works/ │── Test_Documentation.md │── Test_Cases.md │── README.md
+Test_Documentation.md │── Test_Cases.md │── README.md
 ## 📌 About This Repository
 This repository includes **manual test cases and documentation** to validate the core functionalities of a **To-Do List Application**, covering:
 
