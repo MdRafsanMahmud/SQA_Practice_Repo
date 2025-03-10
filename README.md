@@ -1,4 +1,4 @@
-# **SQA_Testing_Practice_Repo**
+# **SQA_Practice_Repo**
 
 This repository highlights my expertise in Software Quality Assurance (SQA), with a focus on manual test case design. It includes structured test documentation, real-world testing scenarios, and best practices to ensure software reliability and functionality. Through a systematic approach to test planning and execution, this repository demonstrates proficiency in functional and non-functional testing, requirement analysis, and validation techniques. It serves as a portfolio of my hands-on experience in quality assurance methodologies, emphasizing software validation to enhance product quality and user experience.
 
@@ -12,14 +12,14 @@ This repository highlights my expertise in Software Quality Assurance (SQA), wit
 ---
 ### 📂 Folder Structure 
 ###  📌 To-Do List Application
-SQA_Testing_Practice_Repo/
+SQA_Practice_Repo/
 │── To-Do_List_Application/
 │   ├── Test_Documentation.md
 │   ├── Test_Cases.md
 │   │── README.md
 
 ###   📌 Facebook Login Page 
-SQA_Testing_Practice_Repo/
+SQA_Practice_Repo/
 │── Facebook Login page/
 │   ├── Facebook_Test_Cases.pdf
 │   ├── Facebook_Test_Cases.xlsx
