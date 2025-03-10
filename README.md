@@ -13,12 +13,14 @@ This repository highlights my expertise in Software Quality Assurance (SQA), wit
 ### 📂 Folder Structure 
 ###  📌 To-Do List Application
 SQA_Testing_Practice_Repo/
-│── To-Do_List_Test_Cases/
+│── To-Do_List_Application/
 │   ├── Test_Documentation.md
 │   ├── Test_Cases.md
+│   │── README.md
 
 ###   📌 Facebook Login Page 
-│── Facebook_Login_Test_Cases/
+SQA_Testing_Practice_Repo/
+│── Facebook Login page/
 │   ├── Facebook_Test_Cases.pdf
 │   ├── Facebook_Test_Cases.xlsx
 │   │── Test_Documentation_FB.md 
