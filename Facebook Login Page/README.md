@@ -3,7 +3,7 @@
 This project provides **structured manual test cases** for **Facebook's login functionality**, ensuring comprehensive validation of **usability, security, and key features**. It is part of my broader **SQA Testing Practice Repository**, where I showcase my **test planning, execution, and documentation skills**.  
 
 ## 📂 Folder Structure  
-Facebook_Login_Test_Cases/ │── Test_Documentation.md │── Facebook_Test_Cases.xlsx │── Facebook_Test_Cases.pdf │── README.md
+Facebook_Login_Test_Cases/ │── README.md │── Test_Documentation.md │── Facebook_Test_Cases.xlsx │── Facebook_Test_Cases.pdf 
 
 ---
 
