@@ -1,22 +1,40 @@
-# SQA_Testing_Practice_Repo
-This repository highlights my expertise in Software Quality Assurance (SQA), with a focus on manual test case design. It includes structured test documentation, real-world testing scenarios, and best practices to ensure software reliability and functionality. Through a systematic approach to test planning and execution, this repository demonstrates proficiency in functional and non-functional testing, requirement analysis. It serves as a portfolio of my hands-on experience in quality assurance methodologies, emphasizing software validation techniques to enhance product quality and user experience."
+# **SQA_Testing_Practice_Repo**
 
-📌 What’s Included?
+This repository highlights my expertise in Software Quality Assurance (SQA), with a focus on manual test case design. It includes structured test documentation, real-world testing scenarios, and best practices to ensure software reliability and functionality. Through a systematic approach to test planning and execution, this repository demonstrates proficiency in functional and non-functional testing, requirement analysis, and validation techniques. It serves as a portfolio of my hands-on experience in quality assurance methodologies, emphasizing software validation to enhance product quality and user experience.
 
-✅ Test Cases for To-Do List Application – A structured manual test case document.
+---
 
-✅ Bug Reporting Projects (Coming Soon!) – Example bug reports and issue tracking documentation.
+## 📌 **What’s Included?**
 
-✅ More SQA Projects (To be added...)
+- **To-Do List Application Testing** – A structured manual test case document.
+- **Facebook Login Page Testing** – Detailed test cases for Facebook's login page.
 
-🚀 Future Additions
+---
+### 📂 Folder Structure 
+###  📌 To-Do List Application
+SQA_Testing_Practice_Repo/
+│── To-Do_List_Test_Cases/
+│   ├── Test_Documentation.md
+│   ├── Test_Cases.md
 
-🔹 More test case writing projects
+###   📌 Facebook Login Page 
+│── Facebook_Login_Test_Cases/
+│   ├── Facebook_Test_Cases.pdf
+│   ├── Facebook_Test_Cases.xlsx
+│   │── Test_Documentation_FB.md 
+│── README.md
 
-🔹 Sample bug reports with issue tracking
+### 🚀 **Future Additions**
 
-🔹 Test plan and documentation practice
+- **More test case writing projects**  
+- **Sample bug reports with issue tracking**  
+- **Test plan and documentation practice**
 
-⚠️ Note: This repository is for learning and showcasing my SQA skills. It is not licensed for reuse or modification.
+---
 
-📩 Contact Me: https://www.linkedin.com/in/mdrafsanmahmud/
+### ⚠️ **Note:**
+This repository is for learning and showcasing my SQA skills. It is **not licensed** for reuse or modification.
+
+---
+
+### 📩 **Contact Me**: [LinkedIn Profile](https://www.linkedin.com/in/mdrafsanmahmud/)
